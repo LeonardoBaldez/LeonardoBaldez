@@ -2,7 +2,7 @@
 
 - 🔭 Dev. Full Stack
 - 📫 Contato: leonardobaldez.contato@gmail.com
-- 🌱 Conhecimentos: JavaScript; React; TypeScript; PHP; Kotlin; Swift;
+- 🌱 Conhecimentos: JavaScript; React; TypeScript; PHP; Kotlin; Swift; MySQL; HTML; CSS; 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
