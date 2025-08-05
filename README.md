@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leonardo Baldez, tenho 18 anos e sou natural de Belo Horizonte. Concluí o ensino médio no COTEMIG, com o curso técnico em informática. Atualmente, estou cursando Ciência da computação na Dom Helder. Sou apaixonado por tecnologia, tenho uma fome insaciável de conhecimento, sempre buscando aprender novas tecnologias como também me aprimorar nas que já possuo algum conhecimento. Ser desenvolvedor é minha paixão, a minha determinação é o que me guia no trabalho, sempre visando produtividade e otimizações.
+Me chamo Leonardo Baldez, tenho 19 anos e sou natural de Belo Horizonte. Concluí o ensino médio no COTEMIG, com o curso técnico em informática. Atualmente, estou cursando Ciência da computação na Dom Helder. Sou apaixonado por tecnologia, tenho uma fome insaciável de conhecimento, sempre buscando aprender novas tecnologias como também me aprimorar nas que já possuo algum conhecimento. Ser desenvolvedor é minha paixão, a minha determinação é o que me guia no trabalho, sempre visando produtividade e otimizações.
 
 <div> 
   <a href = "mailto:leonardobaldez.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
