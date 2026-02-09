@@ -6,7 +6,7 @@ Me chamo Leonardo Baldez, tenho 19 anos e sou natural de Belo Horizonte. Conclu√
 
 <div> 
   <a href = "mailto:leonardobaldez.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/leobaldez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leobaldez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/LeonardoBaldez?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
